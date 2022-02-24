@@ -57,7 +57,7 @@ if __name__ == '__main__':
 
     # attachment = 附件的路徑 list
 
-    main_attachment = ["/home/bearman/PycharmProjects/Acute group/20200222-入境國人使用居家檢疫書電子化表單統計.xlsx"]
+    main_attachment = ["file_path/file_name"]
 
     # sender 寄件者的顯示名稱 可以自己改但一定要@service.cdc.gov.tw結尾
     # smtp_port 跟 smtp_ip 不可以動
